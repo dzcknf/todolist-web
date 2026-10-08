@@ -355,26 +355,6 @@ Possible improvements for future versions:
 
 ---
 
-# 📸 Screenshots
-
-Add application screenshots here to showcase the interface.
-
-Example:
-
-```markdown
-![Dashboard](assets/screenshots/dashboard.png)
-```
-
-Recommended screenshots:
-
-* Login page
-* Register page
-* Dashboard
-* Task management
-* Profile page
-
----
-
 # 📌 Project Status
 
 🟢 **Active Development**
@@ -384,8 +364,6 @@ The project is still being developed and improved. Features and interface may ch
 ---
 
 # 👨‍💻 Author
-
-**Ahmad Dzaky Naufal**
 
 GitHub: [@dzcknf](https://github.com/dzcknf)
 
